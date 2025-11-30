@@ -100,7 +100,7 @@ This design lets us **simulate a real‑world governance model** without breakin
 
 **Frontend**
 
-- React (JavaScript, functional components)
+- React (TypeScript, functional components)
 - React Router for multi‑page routing + protected routes
 - Tailwind CSS with custom dark, greenish theme
 - UI inspired by:
